@@ -1,0 +1,18 @@
+#image {
+    
+    background: url("/Users/daily/Desktop/TriviaGame/assets/images/background.jpg") no-repeat center center fixed;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+#hawkOption {
+    width:"50";
+    height:"50";
+}
+
+panel.outset {
+    border-style: outset;
+    border-style: solid;
+    border-width: medium;
+}
+
